@@ -1,5 +1,7 @@
 ### Melike VURUCU | melikechan 
 
+#### Important: Nowadays, I will be kinda inactive because I have to organise my academic life. :/
+
 <img src="https://melikechan.github.io/src/octastar_of_ikomeko.svg" width="20%" >
 
 _in the name of the order, for the sake of eternity!_
