@@ -1,7 +1,5 @@
 ### Melike VURUCU | melikechan 
 
-#### Important: Nowadays, I will be kinda inactive because I have to organise my academic life. :/
-
 <img src="https://melikechan.github.io/assets/octastar_of_ikomeko.svg" width="20%" >
 
 _in the name of the order, for the sake of eternity!_
@@ -15,7 +13,7 @@ I'm currently a learner. But, I'm intending to be a backend developer.
 <code>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px" title="HTML">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px" title="CSS">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px" title="JS (wait for it)">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px" title="JS">
 </code>
 
 ### Desktop:
@@ -25,5 +23,3 @@ I'm currently a learner. But, I'm intending to be a backend developer.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="20px" title="C#">
 </code>
 <br>
-
-- Drawing
