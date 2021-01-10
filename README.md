@@ -7,6 +7,10 @@ _in the name of the order, for the sake of eternity!_
 Hey there, this is Melike from Turkey! <br>
 I'm currently a learner. But, I'm intending to be a backend developer.
 
+[![Linkedin Badge](https://img.shields.io/badge/melikechan-blue?logo=Linkedin&style=flat)](https://linkedin.com/in/melikechan)
+[![Instagram Badge](https://img.shields.io/badge/melikechan.draws-e4405f?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/melikechan.draws)
+[![Mail Badge](https://img.shields.io/badge/melikev63@gmail.com-d14836?logo=Gmail&logoColor=white&style=flat)](mailto:melikev63@gmail.com)
+
 ## Skills:
 
 ### Web:
