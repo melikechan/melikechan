@@ -4,6 +4,8 @@
 
 _in the name of the order, for the sake of eternity!_
 
+**Important: Until I organize my studies, you can only contact on mail, please.**
+
 Hey there, this is Melike from Turkey! <br>
 I'm currently a learner. But, I'm intending to be a backend developer.
 
