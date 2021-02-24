@@ -31,4 +31,6 @@ I'm currently a learner. But, I'm intending to be a backend developer.
 <br>
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=melikechan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 [![melikechan's github stats](https://github-readme-stats.vercel.app/api?username=melikechan)](https://github.com/anuraghazra/github-readme-stats)
