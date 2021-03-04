@@ -1,6 +1,6 @@
 ### Melike VURUCU | melikechan 
 
-<img src="https://melikechan.github.io/assets/octastar_of_ikomeko.svg" width="20%" >
+<img src="https://melikechan.github.io/assets/octastar_of_ikomeko-icon-ver.svg" width="20%" >
 
 _in the name of the order, for the sake of eternity!_
 
