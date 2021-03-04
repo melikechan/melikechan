@@ -11,7 +11,7 @@ I'm currently a learner. But, I'm intending to be a backend developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/melikechan-blue?logo=Linkedin&style=flat)](https://linkedin.com/in/melikechan)
 [![Deviantart Badge](https://img.shields.io/badge/melikechan.draws-05CC47?logo=Deviantart&logoColor=white&style=flat)](https://www.deviantart.com/melikechan-draws)
-[![Mail Badge](https://img.shields.io/badge/melikev63@gmail.com-d14836?logo=Gmail&logoColor=white&style=flat)](mailto:melikev63@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/melikechan@tuta.io-840010?logo=Tutanota&logoColor=white&style=flat)](mailto:melikechan@tuta.io)
 
 ## Skills:
 
