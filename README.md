@@ -4,7 +4,7 @@
 
 Hey there, this is Melike from Turkey!
 
-I am interested in quantum computing, computer graphics, artifical intelligence and mathematics.
+I am interested in quantum computing, artifical intelligence and mathematics. In addition, I am an amateur artist/graphic designer.
 
 I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming even though I am still a beginner.
 
