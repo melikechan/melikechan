@@ -20,6 +20,11 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 ### Technologies I want to learn in the future
 
+#### Programming languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 #### Machine learning & deep learning
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
