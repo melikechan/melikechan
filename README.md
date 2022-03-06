@@ -10,12 +10,15 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 ## Skills
 
-### Current technologies
+### Current technologies that I use frequently
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Technologies which I have familarity/experience with
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Technologies I want to learn in the future
@@ -50,6 +53,23 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+
+## Other platforms
+
+### Competitive programming
+
+[![Codeforces](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/melikechan)
+[![Leetcode](https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/melikechan)
+[![Hackerrank](https://img.shields.io/badge/-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/melikevurucu)
+[![Codechef](https://img.shields.io/badge/-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/melikechan)
+[![Topcoder](https://img.shields.io/badge/-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://platform.topcoder.com/profile/melikechan)
+[![Codewars](https://img.shields.io/badge/-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/melikechan)
+
+### General
+
+[![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
+[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikevurucu)
+[![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/melikechan)
 
 ## Github statistics
 
