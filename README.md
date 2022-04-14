@@ -1,4 +1,4 @@
-<img align="right" src="https://melikechan.github.io/img/star-of-infinity-icon-ver.svg" width="20%">
+<img align="right" src="melikechan-logo.svg" width="20%">
 
 # Melike Vurucu | melikechan
 
