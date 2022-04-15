@@ -60,7 +60,7 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 [![Codeforces](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/melikechan)
 [![Leetcode](https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/melikechan)
-[![Hackerrank](https://img.shields.io/badge/-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/melikevurucu)
+[![Hackerrank](https://img.shields.io/badge/-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/melikechan)
 [![Codechef](https://img.shields.io/badge/-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/melikechan)
 [![Topcoder](https://img.shields.io/badge/-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://platform.topcoder.com/profile/melikechan)
 [![Codewars](https://img.shields.io/badge/-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/melikechan)
