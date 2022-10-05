@@ -26,7 +26,7 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 #### Programming languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Vala](https://img.shields.io/badge/Vala-6D5F92?style=for-the-badge&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Machine learning & deep learning
 
@@ -45,7 +45,6 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-4A86CF?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
