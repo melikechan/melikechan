@@ -6,7 +6,9 @@ Hey there, this is Melike from Turkey!
 
 I am interested in quantum computing, artifical intelligence and mathematics. In addition, I am an amateur artist/graphic designer.
 
-I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming even though I am still a beginner.
+I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming as a hobby.
+
+You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization name [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other projects plans to start soon.
 
 ## Skills
 
@@ -14,12 +16,12 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Technologies which I have familarity/experience with
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Technologies I want to learn in the future
 
@@ -50,7 +52,6 @@ I (will) mainly work in quantum computing and quantum machine learning field. Al
 
 ### Current graphic tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
