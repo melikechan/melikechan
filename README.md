@@ -8,7 +8,7 @@ I am interested in quantum computing, artifical intelligence and mathematics. In
 
 I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming as a hobby.
 
-You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization name [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other projects plans to start soon.
+You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization name [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other project plans to start soon.
 
 ## Skills
 
@@ -69,7 +69,7 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 ### General
 
 [![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
-[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikevurucu)
+[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melike-vurucu)
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/melikechan)
 
 ## Github statistics
