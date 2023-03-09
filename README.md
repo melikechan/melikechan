@@ -8,7 +8,7 @@ I am interested in quantum computing, artifical intelligence and mathematics. In
 
 I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming as a hobby.
 
-You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization name [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other project plans to start soon.
+You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other project plans to start soon.
 
 ## Skills
 
@@ -21,16 +21,35 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<details>
+<summary>Web development</summary>
+
+**NOTE: I don't like doing webdev and I don't consider this field as a career. I just do webdev when _I have to_.**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**In the future:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</details>
 
 ### Technologies I want to learn in the future
 
-#### Programming languages
+<details>
+<summary>Programming languages</summary>
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-#### Machine learning & deep learning
+</details>
+
+<details>
+<summary>Machine learning & data science tools</summary>
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -38,22 +57,21 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Quantum computing
+</details>
+
+<details>
+<summary>Quantum computing</summary>
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![Q#](https://img.shields.io/badge/Q%23-570861?style=for-the-badge&logoColor=white)
 
+</details>
+
 ### Current development tools/IDE's/platforms/API's
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-4A86CF?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Current graphic tools
-
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
 ## Other platforms
 
