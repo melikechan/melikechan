@@ -4,20 +4,29 @@
 
 Hey there, this is Melike from Turkey!
 
-I am interested in quantum computing, artifical intelligence and mathematics. In addition, I am an amateur artist/graphic designer.
+I am _interested in quantum computing, artificial intelligence, and mathematics_. In addition, I am an artist/graphic designer.
 
-I (will) mainly work in quantum computing and quantum machine learning field. Also, I do competitive programming as a hobby.
+I mainly work in **deep learning** and want to work in **quantum computing** in the **future**. Also, I do **competitive programming** as **a hobby**.
 
-You can take a look at my pins for the projects worth to show! I sometimes do projects under the organization [@igniteworks](https://github.com/igniteworks), you can take a look at there. I have some other project plans to start soon.
+You can take a look at **my pins** for the **projects worth showing**! 
 
 ## Skills
 
 ### Current technologies that I use frequently
 
+#### Programming Languages
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### Technologies which I have familarity/experience with
+#### Deep learning & data science libraries
+
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Technologies/programming languages with which I have familiarity/experience with
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -25,7 +34,7 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 <details>
 <summary>Web development</summary>
 
-**NOTE: I don't like doing webdev and I don't consider this field as a career. I just do webdev when _I have to_.**
+**NOTE: I wouldn't say I like doing webdev and don't consider this field a career. I just do web dev when _I have to_.**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,19 +52,14 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 <details>
 <summary>Programming languages</summary>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </details>
 
 <details>
-<summary>Machine learning & data science tools</summary>
+<summary>Deep Learning</summary>
 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
 
@@ -66,6 +70,7 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 ![Q#](https://img.shields.io/badge/Q%23-570861?style=for-the-badge&logoColor=white)
 
 </details>
+
 
 ### Current development tools/IDE's/platforms/API's
 
@@ -87,7 +92,7 @@ You can take a look at my pins for the projects worth to show! I sometimes do pr
 ### General
 
 [![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
-[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melike-vurucu)
+[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikechan)
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/melikechan)
 
 ## Github statistics
