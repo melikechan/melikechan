@@ -6,7 +6,13 @@ Hey there, this is Melike from Turkey!
 
 I am _interested in quantum computing, artificial intelligence, and mathematics_. In addition, I am an artist/graphic designer.
 
-I mainly work in **deep learning** and want to work in **quantum computing** in the **future**. Also, I do **competitive programming** as **a hobby**.
+I mainly work in **deep learning** and want to work in **quantum computing** in the **future**. 
+<details>
+  <summary><i>Some legacy information</i></summary>
+  
+  I _used to_ do **competitive programming** as **a hobby** but I _don't do_ it anymore.
+  
+</details>
 
 You can take a look at **my pins** for the **projects worth showing**! 
 
@@ -80,20 +86,11 @@ You can take a look at **my pins** for the **projects worth showing**!
 
 ## Other platforms
 
-### Competitive programming
-
-[![Codeforces](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/melikechan)
-[![Leetcode](https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/melikechan)
-[![Hackerrank](https://img.shields.io/badge/-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/melikechan)
-[![Codechef](https://img.shields.io/badge/-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/melikechan)
-[![Topcoder](https://img.shields.io/badge/-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white)](https://platform.topcoder.com/profile/melikechan)
-[![Codewars](https://img.shields.io/badge/-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/melikechan)
-
-### General
-
-[![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
-[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikechan)
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/melikechan)
+[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikechan)
+[![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
+[![Codeforces (inactive)](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/melikechan)
+
 
 ## Github statistics
 
