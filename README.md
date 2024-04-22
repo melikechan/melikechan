@@ -1,6 +1,7 @@
-<img align="right" src="melikechan-logo.svg" width="20%">
-
-### Melike Vurucu | melikechan
+<div align="center">
+  <img src="melikechan-logo.svg" width="20%" />
+  <h1> Melike Vurucu | melikechan </h1>
+</div>
 
 Hey there, this is Melike from Turkey!
 
@@ -16,23 +17,23 @@ I mainly work in **deep learning** and want to work in **quantum computing** in 
 
 You can look at **my pins** for the **projects worth showing**! 
 
-### Skills
+## Skills
 
-#### Current technologies that I use frequently
+### Current technologies that I use frequently
 
-##### Programming Languages
+#### Programming Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-##### Deep learning & data science libraries
+#### Deep learning & data science libraries
 
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Technologies/programming languages with which I have familiarity/experience with
+### Technologies/programming languages with which I have familiarity/experience with
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,7 +54,7 @@ You can look at **my pins** for the **projects worth showing**!
 
 </details>
 
-#### Technologies I want to learn in the future
+### Technologies I want to learn in the future
 
 <details>
 <summary>Programming languages</summary>
@@ -79,7 +80,7 @@ You can look at **my pins** for the **projects worth showing**!
 </details>
 
 
-#### Current development tools/IDE's/platforms/API's
+### Current development tools/IDE's/platforms/API's
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
