@@ -7,7 +7,10 @@ Hey there, this is Melike from Turkey!
 
 I am _interested in quantum computing, artificial intelligence, and mathematics_. In addition, I am an artist/graphic designer.
 
-I mainly work in **deep learning** and want to work in **quantum computing** in the **future**. 
+I _mainly_ work in **deep learning** and want to work in **quantum computing** in the **future**. 
+
+I'm interested in **system/low-latency programming and optimization-related stuff** too, but I don't _think_ of a career in it. _(for now)_.
+
 <details>
   <summary><i>Some legacy information</i></summary>
   
