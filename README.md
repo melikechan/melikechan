@@ -98,8 +98,8 @@ You can look at **my pins** for the **projects worth showing**!
 
 ## Other platforms
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/melikechan)
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/melikechan)
-[![Linkedin](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melikechan)
 [![Gitlab](https://img.shields.io/badge/-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/melikechan)
 [![Codeforces (inactive)](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/melikechan)
 
