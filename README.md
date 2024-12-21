@@ -5,9 +5,9 @@
 
 Hey there, this is Melike from Turkey!
 
-I am _interested in quantum computing, artificial intelligence, and mathematics_. In addition, I am an artist/graphic designer.
+I am interested in **quantum computing**, **artificial intelligence**, and **mathematics**. I am also an artist and graphic designer.
 
-I _mainly_ work in **deep learning** and want to work in **quantum computing** in the **future**. 
+I _mainly work_ in **deep learning** and _want to work_ in **quantum computing, but not in the near future**. 
 
 I'm interested in **system/low-latency programming and optimization-related stuff** too, but I don't _think_ of a career in it. _(for now)_.
 
@@ -31,6 +31,7 @@ You can look at **my pins** for the **projects worth showing**!
 
 #### Deep learning & data science libraries
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -73,13 +74,6 @@ You can look at **my pins** for the **projects worth showing**!
 </details>
 
 <details>
-<summary>Deep Learning</summary>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</details>
-
-<details>
 <summary>Quantum computing</summary>
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
@@ -87,6 +81,13 @@ You can look at **my pins** for the **projects worth showing**!
 
 </details>
 
+<details>
+<summary>Fun facts about me</summary>
+
+- I want to be a manga artist, following realism (well, you'd say I want to be a comic artist instead) but no matter what I want to be, I _could not find time_ to practice drawing.
+- Using Copilot and LLMs while coding makes me _kinda forgetful_ to the degree that _writing code is like torture._
+- I try to carry on _a dozen things_ at a moment but get lost in them. (thus, a lot of projects are incomplete but I will try to complete them, **I promise**)
+</details>
 
 ### Current development tools/IDE's/platforms/API's
 
